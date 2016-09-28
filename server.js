@@ -4,7 +4,7 @@ const readFile = require('fs').readFile
 
 const basicEnvironment = require('nodeos-boot-singleUser')
 const linuxCmdline     = require('linux-cmdline')
-const mountUsersFS     = require('NodeOS-boot-singleusermount')
+const mountUsersFS     = require('nodeos-boot-singleUserMount')
 const startRepl        = require('nodeos-mount-utils').startRepl
 
 const prepareSessions = require('.')
