@@ -35,6 +35,6 @@
     "prompt": "^1.0.0"
   },
   "peerDependencies": {
-    "jocker": "^0.0.0"
+    "jocker": "^0.0.1"
   }
 }
