@@ -31,7 +31,7 @@
     "rimraf": "^2.5.4"
   },
   "devDependencies": {
-    "jocker": "^0.0.0",
+    "jocker": "^0.0.1",
     "prompt": "^1.0.0"
   },
   "peerDependencies": {
