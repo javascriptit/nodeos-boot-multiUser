@@ -22,6 +22,7 @@
   "homepage": "https://github.com/NodeOS/nodeos-mount-filesystems",
   "dependencies": {
     "async": "^2.1.4",
+    "exclfs": "^0.0.5",
     "linux-cmdline": "^1.0.0",
     "mkdirp": "^0.5.1",
     "nodeos-boot-singleUser": "^0.4.2",
