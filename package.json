@@ -25,8 +25,8 @@
     "exclfs": "^0.0.5",
     "linux-cmdline": "^1.0.0",
     "mkdirp": "^0.5.1",
-    "nodeos-boot-singleUser": "^0.5.0",
-    "nodeos-boot-singleUserMount": "^0.5.0",
+    "nodeos-boot-singleUser": "^0.5.1",
+    "nodeos-boot-singleUserMount": "^0.5.1",
     "nodeos-mount-utils": "^0.2.0",
     "prompt": "^1.0.0",
     "rimraf": "^2.6.1"
