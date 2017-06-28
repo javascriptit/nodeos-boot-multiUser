@@ -1,6 +1,6 @@
 {
   "name": "nodeos-boot-multiUser",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Prepare and mount the NodeOS filesystems",
   "main": "lib",
   "bin": "server.js",
